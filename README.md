@@ -1,2 +1,2 @@
 # segmentation-masks
-repo for segmentation and masking ml algorithms
+This is the space where the works related to segmentation are maintained
